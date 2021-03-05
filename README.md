@@ -146,6 +146,11 @@
 
 # Notas das aulas:
 
+Para executar um script python, faça conforme o exemplo abaixo:
+```sh
+docker-compose run --rm app python aulas/01.py
+```
+
 ## Sobre o projeto:
 
 ### Permissões de arquivos:
