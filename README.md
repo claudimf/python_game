@@ -204,3 +204,5 @@ docker-compose down && docker-compose up
 [1° Conteinerização de scripts em Python](https://github.com/claudimf/containerized_python)
 
 [2° Exemplos de formatação de strings](https://docs.python.org/3/library/string.html#formatexamples)
+
+[3° Built-in Functions](https://docs.python.org/3/library/functions.html)
