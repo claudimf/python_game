@@ -151,6 +151,12 @@ Para executar um script python, faça conforme o exemplo abaixo:
 docker-compose run --rm app python aulas/01.py
 ```
 
+Para abri o terminal interativo do Python:
+
+```sh
+docker-compose run --rm app python
+```
+
 ## Sobre o projeto:
 
 ### Permissões de arquivos:
