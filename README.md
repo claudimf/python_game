@@ -2,9 +2,11 @@
 
 👋 Olá, Seja Bem-vindo(a) ao 'Python Game'.
 
-# Projeto 'Python Game' do curso [Python 3 parte 1: Introdução à nova versão da linguagem](https://cursos.alura.com.br/course/python-3-introducao-a-nova-versao-da-linguagem)
+# Projeto 'Python Game' dos cursos:
 
-# Aulas
+## [Python 3 parte 1: Introdução à nova versão da linguagem](https://cursos.alura.com.br/course/python-3-introducao-a-nova-versao-da-linguagem)
+
+### Aulas
 
 <details>
     <summary>Introdução e Instalação do Python 3</summary>
@@ -21,7 +23,7 @@
         <li>Qual o tipo da variável?</li>
         <li>Tipagem de variáveis</li>
         <li>Para saber mais: Snake_Case</li>
-    <ul>
+    </ul>
 </details>
 
 <details>
@@ -40,7 +42,7 @@
         <li>Python 2 vs Python 3 - #2</li>
         <li>Para saber mais: JavaScript vs Python</li>
         <li>Arquivos do projeto atual</li>
-    <ul>
+    </ul>
 </details>
 
 <details>
@@ -54,7 +56,7 @@
         <li>Qual é o tipo?</li>
         <li>Para saber mais: if sem ou com parênteses?</li>
         <li>Arquivos do projeto atual</li>
-    <ul>
+    </ul>
 </details>
 
 <details>
@@ -67,7 +69,7 @@
         <li>Testando formatação</li>
         <li>Mão na massa: Usando while</li>
         <li>Arquivos do projeto atual</li>
-    <ul>
+    </ul>
 </details>
 
 <details>
@@ -86,7 +88,7 @@
         <li>O resultado da interpolação</li>
         <li>Interpolação - Python 2 vs Python 3</li>
         <li>Arquivos do projeto atual</li>
-    <ul>
+    </ul>
 </details>
 
 <details>
@@ -101,7 +103,7 @@
         <li>Mão na massa: Número secreto aleátorio</li>
         <li>Para saber mais: Pseudo-Random</li>
         <li>Arquivos do projeto atual</li>
-    <ul>
+    </ul>
 </details>
 
 <details>
@@ -115,7 +117,7 @@
         <li>Para saber mais: arredondar no Python 2 e no Python 3</li>
         <li>Para saber mais: Divisão de float e integer</li>
         <li>Arquivos do projeto atual</li>
-    <ul>
+    </ul>
 </details>
 
 <details>
@@ -131,7 +133,7 @@
         <li>Mão na massa: Modularizando o jogo</li>
         <li>Download do jogo</li>
         <li>Arquivos do projeto atual</li>
-    <ul>
+    </ul>
 </details>
 
 <details>
@@ -141,7 +143,127 @@
         <li>Interpretado vs Compilado</li>
         <li>Python é interpretado ou compilado?</li>
         <li>Download e considerações finais</li>
+    </ul>
+</details>
+
+## [Python 3 parte 2: Avançando na linguagem](https://cursos.alura.com.br/course/python-3-avancando-na-linguagem)
+
+### Aulas
+
+<details>
+    <summary>Preparando o jogo da forca</summary>
     <ul>
+        <li>Introdução</li>
+        <li>Se você veio do Python 2...</li>
+        <li>Ajustando a infraestrutura</li>
+        <li>Arquivos do curso e IDE utilizada</li>
+        <li>Game Loop</li>
+        <li>Quantos erros tem...</li>
+        <li>Tipo Booleano</li>
+        <li>Para saber mais: built-in</li>
+        <li>Mãos na massa</li>
+        <li>Arquivos do projeto atual</li>
+    </ul>
+</details>
+
+<details>
+    <summary>Manipulando strings</summary>
+    <ul>
+        <li>Encontrando letras</li>
+        <li>Buscando um caracter em uma string</li>
+        <li>Iterando em uma palavra</li>
+        <li>Recordando...</li>
+        <li>Funções importantes da String</li>
+        <li>Grandes poderes trazem grandes responsabilidades</li>
+        <li>Mãos na massa</li>
+        <li>Para saber mais: Alterações com strings</li>
+        <li>Arquivos do projeto atual</li>
+    </ul>
+</details>
+
+<details>
+    <summary>Conhecendo e trabalhando com listas</summary>
+    <ul>
+        <li>Estrutura de dados: List</li>
+        <li>Sistema para as frutas</li>
+        <li>Um bom jeito de economizar</li>
+        <li>Contando os funcionários</li>
+        <li>Um falso campeão</li>
+        <li>Guardando as letras acertadas</li>
+        <li>Mãos na massa</li>
+        <li>Para Saber Mais: Outros recursos com a lista</li>
+        <li>Arquivos do projeto atual</li>
+    </ul>
+</details>
+
+<details>
+    <summary>Conhecendo e trabalhando com tuplas</summary>
+    <ul>
+        <li>O que são tuplas?</li>
+        <li>Tipos considerados sequências</li>
+        <li>Funções importantes</li>
+        <li>Diferenças entre sequências</li>
+        <li>Sequência imutável</li>
+        <li>Listas e tuplas juntas</li>
+        <li>Ajuda na conversão</li>
+        <li>Exemplos de sequências</li>
+        <li>Para saber mais: Set</li>
+        <li>Para saber mais: Dictionary</li>
+        <li>Arquivos do projeto atual</li>
+    </ul>
+</details>
+
+<details>
+    <summary>Implementando o encerramento do jogo</summary>
+    <ul>
+        <li>Estipulando tentativas de erros</li>
+        <li>Calculando o total de caracteres em um loop</li>
+        <li>Saindo do loop</li>
+        <li>Forca com teste de erros alternativo</li>
+        <li>Opcional: quantas tentativas faltam?</li>
+        <li>Para saber mais: outra maneira de sair do loop</li>
+        <li>Compreensão de lista</li>
+        <li>Loop relativo à List Comprehension</li>
+        <li>Preenchendo uma lista com os quadrados de números inteiros</li>
+        <li>Para saber mais: inicializando uma lista de números pares</li>
+        <li>Mãos na massa: encerrando o jogo</li>
+        <li>Arquivos do projeto atual</li>
+    </ul>
+</details>
+
+<details>
+    <summary>Escrita e leitura de arquivos</summary>
+    <ul>
+        <li>Escrevendo em um arquivo</li>
+        <li>A função open</li>
+        <li>Os modificadores de acesso</li>
+        <li>Uma boa prática com arquivos</li>
+        <li>Lendo um arquivo</li>
+        <li>Lendo a primeira linha</li>
+        <li>Lendo um arquivo por completo</li>
+        <li>Escolhendo uma palavra</li>
+        <li>Para saber mais: with</li>
+        <li>Mãos na massa: Palavras aleatórias no jogo</li>
+        <li>Arquivos do projeto atual</li>
+    </ul>
+</details>
+
+<details>
+    <summary>Melhorando o código e a apresentação</summary>
+    <ul>
+        <li>Organizando o código em funções</li>
+        <li>Sobre funções</li>
+        <li>Criando mais funções</li>
+        <li>Sintaxe das funções</li>
+        <li>Melhorando a apresentação da forca</li>
+        <li>Boas práticas de código</li>
+        <li>Mãos na Massa: Exportando o código para funções</li>
+        <li>Mãos na Massa: Melhorando a apresentação do jogo</li>
+        <li>Para saber mais: Parâmetros opcionais e nomeados</li>
+        <li>Considerações finais</li>
+        <li>Download e considerações finais</li>
+        <li>Próximos passos</li>
+    </ul>
 </details>
 
 # Notas das aulas:
